@@ -1,0 +1,35 @@
+
+.line {
+ border-left-color: #A33633; /* Цвет линии слева */
+ border-left-style: double; /* Стиль линии */
+ border-left-width: 7px; /* Толщина линии */
+ padding-left: 10px; /* Расстояние между линией и текстом */
+}
+
+
+
+
+
+
+body{
+background-color: #FFFFFF; /* Цвет фона веб-страницы */
+}
+h1 {
+background-color: RGB(29, 36, 89); /* Цвет фона под заголовком */
+}
+h2 {
+background-color: RGB(29, 36, 89); /* Цвет фона под заголовком */
+}
+p {
+background-color: maroon; /* Цвет фона под текстом параграфа */
+color: white; /* Цвет текста */
+}
+
+
+
+#block {
+outline-style: dashed; /* Пунктирная граница */
+outline-color: #93969A; /* Цвет границы */
+padding: 10px; /* Поля вокруг текста */
+background: #2F4965; /* Цвет фона */
+}
